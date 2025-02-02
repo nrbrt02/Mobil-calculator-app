@@ -1,9 +1,9 @@
 # Calculator Mobile Application
-[*] Assignment #1 in mobile programming class
+- Assignment #1 in mobile programming class
 
 ![Screenshoot of the application](screen.png)
 
-[*] Figma design 
+- Figma design 
 
 ![Figma design screen](figm-design.png)
 
